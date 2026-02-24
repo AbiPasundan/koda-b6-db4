@@ -1,8 +1,8 @@
 # Authentication Flow
 
+![Screenshot](sc.png)
+
 ```mermaid
-
-
 ---
 title: Authentication Flow
 ---
